@@ -19,4 +19,4 @@ This assignment would be introducing the students to creating music through loop
 
 This assignment would be an extension of the first but would focus on the hardware we are using (microphones, sound mixers, sampler pads, keyboards, etc.).
 
-This assignment is something I wrote up for our Dryden grant. The assignment and lesson plan can be seen [here.](Audio Mixer.docx)
+This assignment is something I wrote up for our Dryden grant. The assignment and lesson plan can be seen [here.]([Audio Mixer.docx](https://github.com/hunter-teacher-cert/currdev-work-beckley1/blob/ac9cdb98e23249ae8749c531861b483551eef4e9/Audio%20Mixer.docx))
