@@ -19,4 +19,4 @@ This assignment would be introducing the students to creating music through loop
 
 This assignment would be an extension of the first but would focus on the hardware we are using (microphones, sound mixers, sampler pads, keyboards, etc.).
 
-
+This assignment is something I wrote up for our Dryden grant. The assignment ca
