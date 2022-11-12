@@ -1,3 +1,5 @@
+# Analyzing Your Digital Footprint
+
 # Standards Used:
 ## 7-8.CY.1:
 ### Determine the types of personal information and digital resources that an individual may have access to that needs to be protected.
